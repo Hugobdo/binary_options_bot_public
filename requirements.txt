@@ -1,0 +1,8 @@
+iqoptionapi @ git+http://github.com/Lu-Yi-Hsun/iqoptionapi.git
+tensorflow~=2.9.1
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+pymongo

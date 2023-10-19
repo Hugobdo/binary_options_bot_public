@@ -1,0 +1,21 @@
+{
+  "Accuracy": 0.49669140577316284,
+  "columns_order": [
+    "close",
+    "max",
+    "volume",
+    "open",
+    "min"
+  ],
+  "num_previous_candles": 20,
+  "batch_size": 256,
+  "epochs": 30,
+  "early_stopping_patience": 10,
+  "dropout_rate": 0.4,
+  "dense_units": [
+    100,
+    75,
+    50
+  ],
+  "look_forward": 5
+}
